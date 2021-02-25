@@ -10,7 +10,6 @@ void main(){
 			p++;
 			t=2*t;
 		}
-	printf("%d\n",p);
 	for(i=0;i<p;i++){
 		if((a%2)==0){
 			w[p-1-i]=0;
