@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(){
-	unsigned char a;
+	int a;
 	int i;
 	int w[8];
 	scanf("%d",&a);
